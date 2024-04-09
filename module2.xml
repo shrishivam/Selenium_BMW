@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Module2Suite">
+  <test thread-count="5" name="Module2Test">
+    <classes>
+      <class name="bmw_scripts.BMWModule2DiscoverAllModels"/>
+      <class name="bmw_scripts.BMWModule2NeedAnalyzer"/>
+    </classes>
+  </test> <!-- Module2Test -->
+</suite> <!-- Module2Suite -->

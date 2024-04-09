@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Module7">
+  <test thread-count="5" name="Module7Test">
+    <classes>
+      <class name="bmw_scripts.BMWModule7JoyFestTC_44"/>
+      <class name="bmw_scripts.BMWModule7MilestoneTC_59"/>
+      <class name="bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55"/>
+      <class name="bmw_scripts.BMWModule7TestLinksTC_43"/>
+      <class name="bmw_scripts.BMWModule7TechnologyTC_56"/>
+      <class name="bmw_scripts.BMWModule7SwitchWLTPTC_58"/>
+      <class name="bmw_scripts.BMWModule7ConsumptionTC_57"/>
+    </classes>
+  </test> <!-- Module7Test -->
+</suite> <!-- Module7 -->

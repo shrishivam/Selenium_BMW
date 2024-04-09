@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Module1Suite">
+  <test thread-count="5" name="Module1Test">
+    <classes>
+      <class name="bmw_scripts.BMWModule1DealerLocatorCheckTC_005"/>
+      <class name="bmw_scripts.BMWModule1TestDriveLogoCheckTC_006"/>
+      <class name="bmw_scripts.BMWModule1SeriesCheckTC_007"/>
+      <class name="bmw_scripts.BMWModule1OuterLinkCheckTC_010"/>
+      <class name="bmw_scripts.BMWModule1InvokeBrowserTC_001"/>
+      <class name="bmw_scripts.BMWModule1FourHeaderOptionTC_002"/>
+      <class name="bmw_scripts.BMWModule1BodyTypeTestTC_008"/>
+      <class name="bmw_scripts.BMWModule1ImageCheckTC_009"/>
+      <class name="bmw_scripts.BMWModule1BMWLogoCheckTC_004"/>
+      <class name="bmw_scripts.BMWModule1ImageSliderCheckTC_003"/>
+    </classes>
+  </test> <!-- Module1Test -->
+</suite> <!-- Module1Suite -->

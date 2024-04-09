@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Services]">
+  <test thread-count="5" name="ServicesTest(failed)">
+    <classes>
+      <class name="bmw_scripts.BMWModule5TestCheckBoxValidation">
+        <methods>
+          <include name="testCheckBoxValidation"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule5TestCheckBoxValidation -->
+      <class name="bmw_scripts.BMWModule5TestBRIServices">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testBRIServices"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule5TestBRIServices -->
+    </classes>
+  </test> <!-- ServicesTest(failed) -->
+</suite> <!-- Failed suite [Services] -->

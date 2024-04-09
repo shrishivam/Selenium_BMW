@@ -1,0 +1,21 @@
+[0420/120236.010:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/120236.012:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/120236.012:ERROR:exception_snapshot_win.cc(98)] thread ID 8660 not found in process
+[0420/121504.360:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.361:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.361:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.361:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.361:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.362:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.363:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.363:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.363:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.363:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0420/121504.363:ERROR:exception_snapshot_win.cc(98)] thread ID 13376 not found in process
+[0425/122841.980:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0425/122842.023:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0425/122842.023:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0425/122842.023:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0425/122842.030:ERROR:file_io_win.cc(161)] CreateFile C:\Users\shivam\AppData\Local\Temp\scoped_dir14792_1488732337\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/122842.030:ERROR:file_io_win.cc(170)] CreateFile C:\Users\shivam\AppData\Local\Temp\scoped_dir14792_1488732337\Crashpad\reports\da0aa3ce-4e69-43da-94fb-5994a4e71618.dmp: The system cannot find the path specified. (0x3)
+[0425/122842.030:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

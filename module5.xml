@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Services"  >
+
+	<test thread-count="5" name="ServicesTest">
+		<classes>
+			<class name="bmw_scripts.BMWModule5TestAllLinks" />
+			<class name="bmw_scripts.BMWModule5TestLifeStyleAndGadgets" />
+			<class name="bmw_scripts.BMWModule5TestJoyRewardsLink" />
+			<class name="bmw_scripts.BMWModule5TestCheckBoxValidation" />
+			<class name="bmw_scripts.BMWModule5TestCarCareProducts" />
+			<class name="bmw_scripts.BMWModule5TestBRiInvalidValue" />
+			<class name="bmw_scripts.BMWModule5TestBRIServices" />
+			<class name="bmw_scripts.BMWModule5TestRewardsRegistrationPage" />
+			<class name="bmw_scripts.BMWModule5TestNullValueValidation" />
+			<class name="bmw_scripts.BMWModule5TestBRINullValue" />
+			<class name="bmw_scripts.BMWModule5TestMandatoryFieldValidation" />
+		</classes>
+	</test> <!-- ServicesTest -->
+</suite> <!-- Services -->

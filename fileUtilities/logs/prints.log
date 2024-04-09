@@ -1,0 +1,744 @@
+10:49:32.220 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - driver is initialised
+10:49:50.555 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - Landing Page Title Matched: Successfully Run TC_001: BMW_Invoke_Correct_Application
+10:49:55.019 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - driver closed
+10:49:55.022 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - driver is initialised
+10:50:15.875 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Model Option Avialable
+10:50:18.211 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Services Option Avialable
+10:50:20.669 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Finance Option Avialable
+10:50:22.536 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - BMWWorld Option Avialable
+10:50:23.537 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - BMWWorld Option Avialable: Successfully Run TC_002: Four_header_Options
+10:50:24.059 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - driver closed
+10:50:24.060 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 - driver is initialised
+10:50:53.611 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 -  Images Slider Present: Successfully Run TC_003: Images Slider Present
+10:50:57.939 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 - driver closed
+10:50:57.941 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - driver is initialised
+10:51:23.375 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - BMW Logo Avialable: Successfully Run TC_004: BMW_Logo_Check
+10:51:24.277 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - driver closed
+10:51:24.278 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - driver is initialised
+10:51:48.222 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Dealer Locator Logo Avialable
+10:51:50.168 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Dealer Locator Page Title Matched
+10:52:01.785 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Successfully Run TC_005: Dealer_Locator_Logo_Checking
+10:52:05.964 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - driver closed
+10:52:05.965 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - driver is initialised
+10:52:34.205 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - Test Drive Logo Avialable
+10:52:35.309 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - Test Drive Page Title Matched: Successfully Run TC_006: Test_Drive_Logo_Checking
+10:52:39.655 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - driver closed
+10:52:39.656 [main] INFO  bmw_scripts.BMWModule1SeriesCheckTC_007 - driver is initialised
+10:53:07.643 [main] ERROR bmw_scripts.BMWModule1SeriesCheckTC_007 - series link not found
+10:53:12.172 [main] INFO  bmw_scripts.BMWModule1SeriesCheckTC_007 - driver closed
+10:53:12.173 [main] INFO  bmw_scripts.BMWModule1BodyTypeTestTC_008 - driver is initialised
+10:53:41.002 [main] ERROR bmw_scripts.BMWModule1BodyTypeTestTC_008 - Body Type link not found
+10:53:45.283 [main] INFO  bmw_scripts.BMWModule1BodyTypeTestTC_008 - driver closed
+10:53:45.284 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - driver is initialised
+10:54:06.303 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image1
+10:54:06.419 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image2
+10:54:06.526 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image3
+10:54:06.693 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image4
+10:54:06.693 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Images are Present
+10:54:11.965 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - driver closed
+10:54:11.966 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - driver is initialised
+10:54:35.013 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - Dealer outer Link is Working
+10:54:44.156 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - Request dealer outer Link is Working
+10:54:47.162 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - BMW Excellence Club outer Link is Working
+10:54:52.041 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - Privacy Policy outer Link is Working
+10:54:52.041 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - Successfully Run TC_010: Outer Links are Present
+10:54:53.652 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - driver closed
+10:54:53.744 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - driver is initialised
+10:55:12.060 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on Models element on Navigation bar
+10:55:21.899 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on discover all models
+10:55:21.918 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - We are on all Models page
+10:55:31.470 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on model 7
+10:55:31.500 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - We are on series 7 Model
+10:55:36.358 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on technical data
+10:55:41.854 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Title matched
+10:55:45.146 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Fetched the top speed
+10:55:46.856 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Written top speed in excel file
+10:55:48.186 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - driver closed
+10:55:48.187 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - driver is initialised
+10:56:07.120 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on Models element on Navigation bar
+10:56:16.148 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on discover all models
+10:56:16.185 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - We are on all Models page
+10:56:20.815 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on need analyzer
+10:56:29.035 [main] ERROR bmw_scripts.BMWModule2NeedAnalyzer - Not loading Need Analyzer page
+10:56:31.099 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - driver closed
+10:56:50.127 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+10:56:54.911 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+10:57:01.709 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on series 7 sedan model to build
+10:57:12.549 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected diesel engine
+10:57:15.032 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the diesel engine name
+10:57:20.303 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on exterior
+10:57:27.561 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Burgundy Paint
+10:57:33.245 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the paint name
+10:57:33.526 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on rims
+10:57:41.383 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the Rims name
+10:57:41.698 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Interior
+10:57:48.856 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Upholstery
+10:57:56.650 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the UpHolstery name
+10:57:56.870 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on trims
+10:58:07.558 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the Trims name
+10:58:40.956 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Downloaded the Build Summary
+10:58:45.189 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+10:59:04.192 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+10:59:08.930 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+10:59:18.147 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+10:59:36.693 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+10:59:41.490 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+10:59:50.297 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:00:09.207 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:00:13.489 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:00:19.307 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Clear Search
+11:00:19.732 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selecetd city
+11:00:22.960 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Model
+11:00:26.180 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Fuel Type
+11:00:32.310 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on used cars filter result
+11:00:32.476 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Switched window to child
+11:00:37.507 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the name and price of used car
+11:00:53.256 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Downloaded Specification sheet of Used Cars
+11:00:54.264 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:01:13.369 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:01:17.568 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:01:22.496 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:01:30.827 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:01:33.110 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:01:35.550 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+11:01:37.782 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+11:01:37.980 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+11:01:53.101 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:02:02.391 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Submitted the form
+11:02:03.722 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:02:22.510 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:02:26.821 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:02:31.973 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:02:40.122 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:02:42.378 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:02:44.542 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+11:02:47.072 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+11:02:47.380 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+11:03:02.940 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:03:07.035 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: 9.891858574E9 not allowed
+11:03:07.140 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+11:03:07.209 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+11:03:08.900 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:03:27.030 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:03:31.302 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:03:36.464 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:03:53.762 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:03:58.511 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input:  not allowed
+11:04:00.850 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:04:19.639 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:04:23.859 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:04:28.769 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:04:36.590 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:04:51.783 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:04:55.900 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: 9.891858574E9 not allowed
+11:04:57.617 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:05:16.612 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:05:20.834 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:05:25.494 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:05:33.246 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:05:35.536 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:05:50.651 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:05:54.779 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+11:05:56.381 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:06:14.856 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:06:19.017 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:06:23.784 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:06:31.552 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:06:33.843 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:06:36.034 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+11:06:51.164 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:06:55.198 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Valid Input
+11:06:56.325 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:07:14.234 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:07:18.475 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:07:23.314 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:07:30.895 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:07:33.111 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:07:35.466 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+11:07:37.665 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+11:07:52.796 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:07:58.021 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - New Delhi Present in select tag
+11:07:59.045 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:08:17.390 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:08:21.588 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:08:25.697 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:08:33.553 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+11:08:35.764 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+11:08:38.181 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+11:08:40.565 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+11:08:40.771 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+11:08:55.961 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+11:09:00.211 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Libra Autohaus, New Delhi present in select tag
+11:09:01.576 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:09:19.316 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:09:23.577 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:09:27.425 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+11:09:30.534 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Submit button is displayed
+11:09:31.797 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:09:50.830 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+11:09:55.013 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+11:09:59.430 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on New Car tag
+11:09:59.585 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Switched window to child
+11:10:09.693 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on series 7 to buy
+11:10:15.086 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the name of Third model of series 7
+11:10:17.168 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the price of Third model of series 7
+11:10:18.387 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on exterior features of model 7 to buy
+11:10:20.631 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on interior features of model 7 to buy
+11:10:28.522 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Check Avalibility
+11:10:31.400 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Entered the Pin Code
+11:10:32.712 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected the city
+11:10:35.404 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on OK button on form to check availabilty of new car
+11:10:37.901 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the availiability status
+11:10:39.617 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+11:10:39.662 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:10:57.200 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+11:10:59.456 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Joy Rewards
+11:11:09.316 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:10.474 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Workshop offers
+11:11:16.537 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:17.744 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Service inclusive
+11:11:23.890 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:25.232 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Fast Lane Service
+11:11:31.482 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:32.780 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Accidemt management
+11:11:38.461 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:39.691 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Orginal parts
+11:11:45.722 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:47.011 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Recall information
+11:11:57.128 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:11:58.518 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package
+11:12:11.033 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+11:12:23.306 [main] INFO  bmw_scripts.BMWTest - true
+11:12:27.638 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Collection
+11:12:28.280 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW motor sport Collection
+11:12:28.393 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW i Collection
+11:12:28.516 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW m Collection
+11:12:28.683 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW kids Collection
+11:12:28.896 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW sports Collection
+11:12:29.001 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW miniatures
+11:12:29.135 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Mobility
+11:12:41.454 [main] INFO  bmw_scripts.BMWTest - true
+11:12:42.448 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories overview
+11:12:42.551 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories universal
+11:12:42.666 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW wheels and tyres
+11:12:42.888 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW travel and comfort
+11:12:43.148 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW M performance parts
+11:12:43.247 [main] INFO  bmw_scripts.BMWTest - Assert passed for the car care products
+11:12:55.707 [main] INFO  bmw_scripts.BMWTest - true
+11:12:56.325 [main] INFO  bmw_scripts.BMWTest - Assert passed for the overview
+11:12:56.425 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories universal
+11:12:56.589 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW M and motor sport
+11:12:56.709 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Dealer Service and Equipment
+11:12:56.816 [main] INFO  bmw_scripts.BMWTest - Assert passed for the LifeStyle and gadgets
+11:12:56.976 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Virtual reality and augmented Reality
+11:13:03.180 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:13:03.181 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:13:21.521 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+11:13:21.956 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:13:22.415 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewatds link
+11:13:25.521 [main] INFO  bmw_scripts.BMWTest - Assert passed for the joy rewards register now
+11:13:29.589 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:13:29.589 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:13:48.235 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+11:13:48.522 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:13:50.907 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+11:13:56.284 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+11:14:09.167 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+11:14:09.188 [main] INFO  bmw_scripts.BMWTest - back to previous window
+11:14:10.491 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:14:10.491 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:14:27.643 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+11:14:28.275 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:14:32.665 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+11:14:47.690 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+11:14:47.712 [main] INFO  bmw_scripts.BMWTest - filling the form for mandatory fields
+11:15:17.215 [main] INFO  bmw_scripts.BMWTest - form filled
+11:15:21.668 [main] INFO  bmw_scripts.BMWTest - 
+11:15:22.143 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+11:15:22.209 [main] INFO  bmw_scripts.BMWTest - back to previous window
+11:15:36.902 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:15:36.905 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:15:55.629 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+11:15:55.935 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:16:00.274 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+11:16:13.239 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+11:16:13.266 [main] INFO  bmw_scripts.BMWTest - filling the form for null fields
+11:16:18.224 [main] INFO  bmw_scripts.BMWTest - *Please enter valid details
+11:16:20.595 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+11:16:20.615 [main] INFO  bmw_scripts.BMWTest - back to previous window
+11:16:22.160 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:16:22.161 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:16:39.598 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+11:16:39.914 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:16:44.352 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+11:16:59.255 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+11:16:59.268 [main] INFO  bmw_scripts.BMWTest - filling the form for null fields
+11:16:59.269 [main] INFO  bmw_scripts.BMWTest - clicking the joy rewards check box
+11:17:03.254 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:17:03.254 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:17:20.583 [main] INFO  bmw_scripts.BMWTest - care care products test case started
+11:17:33.311 [main] INFO  bmw_scripts.BMWTest - true
+11:17:35.727 [main] INFO  bmw_scripts.BMWTest - navigating to car care products
+11:17:49.316 [main] INFO  bmw_scripts.BMWTest - Assert passed for the glass cleaning
+11:17:49.471 [main] INFO  bmw_scripts.BMWTest - Glass Cleaning
+Bringing clarity where it’s needed. The diverse products for excellent care of all glass and mirrored surfaces of your BMW provide you with the right solution to solve any problem: from quick cleaning to high-quality polishing. Glass cleaning.
+• Glass cleaner
+• Glass polish
+• Silicon remover concentrate
+• Windscreen washer without antifreeze
+Find out more
+11:17:51.991 [main] INFO  bmw_scripts.BMWTest - Assert passed for the paint and wheel
+11:17:54.309 [main] INFO  bmw_scripts.BMWTest - Paint and Wheel Rim Care
+BMW Premium Car Care products provide perfect results: a dazzling shine to the rims of your BMW and long-lasting protection to the painted surfaces.
+• Car shampoo
+• Wash & wax
+• Car polish
+• Hard wax with nanotechnology
+• Wheel rim cleaner
+Find out more
+11:17:56.984 [main] INFO  bmw_scripts.BMWTest - Assert passed for the interior care
+11:17:59.389 [main] INFO  bmw_scripts.BMWTest - Interior Care
+Care for inner beauty. These products are a spa treatment for the plastic, cloth, wood and leather in the interior.
+• Leather care set with UV protection
+• Leather cleaning foam
+• Alcantara and upholstery cleaner
+• Interior cleaner
+• Plastic care emulsion
+• Cockpit spray
+• Impregnating agent for upholstery and carpets
+Find out more
+11:18:01.995 [main] INFO  bmw_scripts.BMWTest - Assert passed for the special products
+11:18:04.509 [main] INFO  bmw_scripts.BMWTest - Special Products
+Special products for diverse purposes. These helpers ensure resin on the paint finish or insects on the windscreen are no longer a problem.
+• Tyre shine
+• Rubber care
+Find out more
+11:18:12.314 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:18:12.314 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:18:30.098 [main] INFO  bmw_scripts.BMWTest - BMW lifeStyle and apps test case started
+11:18:40.963 [main] INFO  bmw_scripts.BMWTest - true
+11:18:47.125 [main] INFO  bmw_scripts.BMWTest - Assert passed for the lifestyle page
+11:19:03.392 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:19:03.392 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:19:21.073 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:19:27.789 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package status
+11:19:33.657 [main] INFO  bmw_scripts.BMWTest - Please enter a valid VIN.
+11:19:34.647 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:19:34.647 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:19:53.368 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:20:06.453 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package status
+11:20:12.455 [main] INFO  bmw_scripts.BMWTest - Please enter a valid VIN.
+11:20:16.827 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:20:16.828 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+11:20:34.609 [main] INFO  bmw_scripts.BMWTest - BRI package services
+11:20:35.093 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+11:20:45.386 [main] INFO  bmw_scripts.BMWTest - clicking services
+11:20:53.762 [main] INFO  bmw_scripts.BMWTest - Assert passed for the error page not found
+11:20:54.296 [main] ERROR bmw_scripts.BMWTest - Wheel set page not found
+11:20:54.341 [main] ERROR bmw_scripts.BMWTest - The page you have requested cannot be found, it might have been removed, had its name changed, or is temporarily unavailable.
+Should you wish to contact BMW India for general information on products and services,
+please use one of the following communication channels.
+11:21:00.976 [main] INFO  bmw_scripts.BMWTest - driver closed
+11:21:01.093 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver is initialised
+11:21:30.035 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on finance
+11:21:35.056 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver closed
+11:21:35.057 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver is initialised
+11:22:16.225 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Verify all Links
+11:22:18.319 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver closed
+11:22:18.320 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver is initialised
+11:23:09.454 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked On EMI
+11:24:07.768 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Handles is changed
+11:24:13.074 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Fuel
+11:24:13.871 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on cars
+11:24:15.373 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Plan
+11:24:16.954 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Submit
+11:24:22.513 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Calculate
+11:24:25.513 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - EMIRecords is generated
+11:24:26.059 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - EMIRecords is Name generated
+11:24:29.963 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver closed
+11:24:29.965 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver is initialised
+11:25:00.588 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Leasing
+11:25:10.315 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver closed
+11:25:10.316 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver is initialised
+11:25:40.727 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - Clicked on Loan
+11:25:49.469 [main] INFO  bmw_scripts.BMWModule6ClickOnFinance - driver closed
+11:25:49.536 [main] INFO  bmw_scripts.BMWModule7TestLinksTC_43 - driver is initialised
+11:26:18.680 [main] INFO  bmw_scripts.BMWModule7TestLinksTC_43 - Clicked Bmw world
+11:26:18.681 [main] INFO  bmw_scripts.BMWModule7TestLinksTC_43 - test successfull
+11:26:26.242 [main] INFO  bmw_scripts.BMWModule7TestLinksTC_43 - driver closed
+11:26:26.243 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - driver is initialised
+11:26:46.794 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - Clicked BMW world
+11:26:55.272 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - Clicked BMW JoyFest
+11:27:06.902 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - Clicked on Request
+11:27:08.919 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - test successfull
+11:27:15.687 [main] INFO  bmw_scripts.BMWModule7JoyFestTC_44 - driver closed
+11:27:15.688 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - driver is initialised
+11:27:37.661 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - Clicked BMW world
+11:27:44.560 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - Clicked BMW JoyFest
+11:27:52.942 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - Clicked Request
+11:28:08.156 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - Filled the Form
+11:28:08.156 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - test successfull
+11:28:10.921 [main] INFO  bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55 - driver closed
+11:28:10.922 [main] INFO  bmw_scripts.BMWModule7TechnologyTC_56 - driver is initialised
+11:28:31.377 [main] INFO  bmw_scripts.BMWModule7TechnologyTC_56 - Clicked BMW world
+11:28:43.872 [main] INFO  bmw_scripts.BMWModule7TechnologyTC_56 - Clicked BMW Technology & Innovation
+11:28:43.872 [main] INFO  bmw_scripts.BMWModule7TechnologyTC_56 - test successfull
+11:28:48.194 [main] INFO  bmw_scripts.BMWModule7TechnologyTC_56 - driver closed
+11:28:48.195 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - driver is initialised
+11:29:07.387 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - Clicked BMW world
+11:29:19.782 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - Clicked BMW Technology & Innovation
+11:29:20.001 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - Clicked Consumption
+11:29:25.242 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - test successfull
+11:29:29.488 [main] INFO  bmw_scripts.BMWModule7ConsumptionTC_57 - driver closed
+11:29:29.489 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 - driver is initialised
+11:29:49.148 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 -  Clicked BMW world
+11:30:01.402 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 - Clicked BMW Technology & Innovation
+11:30:01.661 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 - Clicked Consumption
+11:30:21.808 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 - test successfull
+11:30:26.442 [main] INFO  bmw_scripts.BMWModule7SwitchWLTPTC_58 - driver closed
+11:30:26.444 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 - driver is initialised
+11:30:46.369 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 -  Clicked BMW world
+11:30:58.577 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 - Clicked BMW Technology & Innovation
+11:30:58.768 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 - Clicked Consumption
+11:31:32.000 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 - test successfull
+11:31:33.268 [main] INFO  bmw_scripts.BMWModule7MilestoneTC_59 - driver closed
+11:53:52.238 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - driver is initialised
+11:54:35.760 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Dealer Locator Logo Avialable
+11:54:36.944 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Dealer Locator Page Title Matched
+11:54:52.737 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - Successfully Run TC_005: Dealer_Locator_Logo_Checking
+11:55:12.438 [main] INFO  bmw_scripts.BMWModule1DealerLocatorCheckTC_005 - driver closed
+11:55:12.442 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - driver is initialised
+11:55:56.760 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - Test Drive Logo Avialable
+11:55:57.776 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - Test Drive Page Title Matched: Successfully Run TC_006: Test_Drive_Logo_Checking
+11:56:08.443 [main] INFO  bmw_scripts.BMWModule1TestDriveLogoCheckTC_006 - driver closed
+11:56:08.444 [main] INFO  bmw_scripts.BMWModule1SeriesCheckTC_007 - driver is initialised
+11:56:41.489 [main] ERROR bmw_scripts.BMWModule1SeriesCheckTC_007 - series link not found
+11:56:47.733 [main] INFO  bmw_scripts.BMWModule1SeriesCheckTC_007 - driver closed
+11:56:47.734 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - driver is initialised
+11:57:12.646 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - Dealer outer Link is Working
+11:57:29.203 [main] INFO  bmw_scripts.BMWModule1OuterLinkCheckTC_010 - driver closed
+11:57:29.204 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - driver is initialised
+11:57:50.023 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - Landing Page Title Matched: Successfully Run TC_001: BMW_Invoke_Correct_Application
+11:57:54.677 [main] INFO  bmw_scripts.BMWModule1InvokeBrowserTC_001 - driver closed
+11:57:54.678 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - driver is initialised
+11:58:17.497 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Model Option Avialable
+11:58:19.533 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Services Option Avialable
+11:58:21.536 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - Finance Option Avialable
+11:58:23.692 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - BMWWorld Option Avialable
+11:58:24.693 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - BMWWorld Option Avialable: Successfully Run TC_002: Four_header_Options
+11:58:30.014 [main] INFO  bmw_scripts.BMWModule1FourHeaderOptionTC_002 - driver closed
+11:58:30.015 [main] INFO  bmw_scripts.BMWModule1BodyTypeTestTC_008 - driver is initialised
+11:59:02.169 [main] ERROR bmw_scripts.BMWModule1BodyTypeTestTC_008 - Body Type link not found
+11:59:03.863 [main] INFO  bmw_scripts.BMWModule1BodyTypeTestTC_008 - driver closed
+11:59:03.864 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - driver is initialised
+11:59:26.828 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image1
+11:59:27.162 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image2
+11:59:27.272 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image3
+11:59:27.347 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Assert passed for the image4
+11:59:27.347 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - Images are Present
+11:59:32.958 [main] INFO  bmw_scripts.BMWModule1ImageCheckTC_009 - driver closed
+11:59:32.959 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - driver is initialised
+12:00:03.423 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - BMW Logo Avialable: Successfully Run TC_004: BMW_Logo_Check
+12:00:09.916 [main] INFO  bmw_scripts.BMWModule1BMWLogoCheckTC_004 - driver closed
+12:00:09.917 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 - driver is initialised
+12:00:43.060 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 -  Images Slider Present: Successfully Run TC_003: Images Slider Present
+12:00:50.794 [main] INFO  bmw_scripts.BMWModule1ImageSliderCheckTC_003 - driver closed
+12:01:14.216 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - driver is initialised
+12:01:39.610 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on Models element on Navigation bar
+12:01:50.740 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on discover all models
+12:01:50.769 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - We are on all Models page
+12:02:01.822 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on model 7
+12:02:01.930 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - We are on series 7 Model
+12:02:07.682 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Clicked on technical data
+12:02:15.527 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Title matched
+12:02:18.864 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Fetched the top speed
+12:02:22.927 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - Written top speed in excel file
+12:02:26.392 [main] INFO  bmw_scripts.BMWModule2DiscoverAllModels - driver closed
+12:02:26.395 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - driver is initialised
+12:02:49.186 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on Models element on Navigation bar
+12:02:59.165 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on discover all models
+12:02:59.193 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - We are on all Models page
+12:03:04.208 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - Clicked on need analyzer
+12:03:12.495 [main] ERROR bmw_scripts.BMWModule2NeedAnalyzer - Not loading Need Analyzer page
+12:03:14.568 [main] INFO  bmw_scripts.BMWModule2NeedAnalyzer - driver closed
+12:04:24.295 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:04:29.309 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+12:04:38.979 [main] ERROR bmw_scripts.BMWModule3BuildYourBMW - My Configurations Page is not loading
+12:04:44.782 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:05:07.420 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:05:12.365 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+12:05:21.926 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on series 7 sedan model to build
+12:05:33.358 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected diesel engine
+12:05:35.936 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the diesel engine name
+12:05:41.498 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on exterior
+12:05:48.764 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Burgundy Paint
+12:05:54.507 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the paint name
+12:05:54.808 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on rims
+12:06:02.584 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the Rims name
+12:06:02.950 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Interior
+12:06:10.277 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Upholstery
+12:06:18.185 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the UpHolstery name
+12:06:18.591 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on trims
+12:06:29.491 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the Trims name
+12:07:06.676 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Downloaded the Build Summary
+12:07:13.578 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:07:36.508 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:07:41.467 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Build Your BMW
+12:07:51.190 [main] ERROR bmw_scripts.BMWModule3BuildYourBMW - Compare element not found
+12:07:54.530 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:08:30.674 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:08:34.986 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:08:41.971 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:08:51.992 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:08:54.328 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:08:56.745 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+12:08:59.376 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+12:08:59.811 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+12:09:14.983 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:09:24.454 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Submitted the form
+12:09:27.875 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:09:49.959 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:09:54.414 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:10:00.983 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:10:08.820 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:10:11.197 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:10:26.616 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:10:30.910 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+12:10:34.733 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:10:56.906 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:11:01.474 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:11:07.938 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:11:15.698 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:11:18.405 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:11:21.040 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+12:11:23.599 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+12:11:24.030 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+12:11:39.253 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:11:44.067 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Libra Autohaus, New Delhi present in select tag
+12:11:51.286 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:12:13.405 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:12:17.712 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:12:23.827 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:12:31.822 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:12:47.252 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:12:51.457 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: 9.891858574E9 not allowed
+12:12:55.930 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:13:18.601 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:13:22.861 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:13:29.430 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:13:37.826 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:13:40.076 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:13:42.300 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+12:13:44.857 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+12:13:45.393 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Dealer
+12:14:00.639 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:14:04.780 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: 9.891858574E9 not allowed
+12:14:05.083 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+12:14:05.168 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input: shivam not allowed
+12:14:09.485 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:14:31.392 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:14:35.658 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:14:41.873 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:14:49.756 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:14:52.054 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:14:54.279 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+12:15:09.578 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:15:13.674 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Valid Input
+12:15:17.479 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:15:39.397 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:15:43.682 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:15:50.345 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:15:53.544 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Submit button is displayed
+12:16:01.642 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:16:22.454 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:16:26.820 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:16:32.823 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:16:50.101 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:16:54.299 [main] WARN  bmw_scripts.BMWModule3BuildYourBMW - Invalid Input:  not allowed
+12:17:02.735 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:17:26.643 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:17:30.971 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:17:43.448 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on New Car tag
+12:17:43.643 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Switched window to child
+12:18:03.602 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on series 7 to buy
+12:18:09.299 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the name of Third model of series 7
+12:18:11.368 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the price of Third model of series 7
+12:18:12.752 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on exterior features of model 7 to buy
+12:18:15.050 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on interior features of model 7 to buy
+12:18:23.204 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Check Avalibility
+12:18:26.157 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Entered the Pin Code
+12:18:27.776 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected the city
+12:18:30.659 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on OK button on form to check availabilty of new car
+12:18:33.165 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the availiability status
+12:18:38.008 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:19:00.217 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:19:04.585 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:19:10.845 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Sell Your Car tag
+12:19:18.682 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Name
+12:19:21.043 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Mobile Number
+12:19:23.672 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Filled Email
+12:19:25.988 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected City
+12:19:41.197 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Submit Button
+12:19:46.774 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - New Delhi Present in select tag
+12:19:50.461 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:20:12.772 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Models element on Navigation bar
+12:20:17.191 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Used Cars 
+12:20:22.516 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on Clear Search
+12:20:23.386 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selecetd city
+12:20:26.767 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Model
+12:20:30.121 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Selected Fuel Type
+12:20:36.053 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Clicked on used cars filter result
+12:20:36.148 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Switched window to child
+12:20:41.849 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Got the name and price of used car
+12:20:58.202 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - Downloaded Specification sheet of Used Cars
+12:21:02.024 [main] INFO  bmw_scripts.BMWModule3BuildYourBMW - driver closed
+12:22:36.042 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:22:59.784 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+12:23:02.976 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Joy Rewards
+12:23:14.529 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:23:15.996 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Workshop offers
+12:23:28.148 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:23:29.608 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Service inclusive
+12:23:39.410 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:23:40.884 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Fast Lane Service
+12:23:50.641 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:23:52.210 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Accidemt management
+12:24:01.232 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:24:02.688 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Orginal parts
+12:24:11.683 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:24:13.222 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Recall information
+12:24:30.920 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:24:32.566 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package
+12:25:05.992 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+12:25:18.771 [main] INFO  bmw_scripts.BMWTest - true
+12:25:23.341 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Collection
+12:25:24.210 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW motor sport Collection
+12:25:24.558 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW i Collection
+12:25:24.790 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW m Collection
+12:25:25.040 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW kids Collection
+12:25:25.270 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW sports Collection
+12:25:25.617 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW miniatures
+12:25:25.931 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Mobility
+12:25:38.429 [main] INFO  bmw_scripts.BMWTest - true
+12:25:39.489 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories overview
+12:25:39.698 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories universal
+12:25:39.913 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW wheels and tyres
+12:25:40.205 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW travel and comfort
+12:25:40.487 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW M performance parts
+12:25:40.873 [main] INFO  bmw_scripts.BMWTest - Assert passed for the car care products
+12:25:53.690 [main] INFO  bmw_scripts.BMWTest - true
+12:25:54.553 [main] INFO  bmw_scripts.BMWTest - Assert passed for the overview
+12:25:54.820 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW accessories universal
+12:25:55.035 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW M and motor sport
+12:25:55.264 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Dealer Service and Equipment
+12:25:55.591 [main] INFO  bmw_scripts.BMWTest - Assert passed for the LifeStyle and gadgets
+12:25:55.856 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Virtual reality and augmented Reality
+12:26:08.377 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:26:08.380 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:26:31.748 [main] INFO  bmw_scripts.BMWTest - BMW lifeStyle and apps test case started
+12:26:42.949 [main] INFO  bmw_scripts.BMWTest - true
+12:26:50.117 [main] INFO  bmw_scripts.BMWTest - Assert passed for the lifestyle page
+12:27:08.147 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:27:08.148 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:27:29.112 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+12:27:29.678 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:27:30.575 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewatds link
+12:27:36.363 [main] INFO  bmw_scripts.BMWTest - Assert passed for the joy rewards register now
+12:27:42.677 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:27:42.678 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:28:03.070 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+12:28:03.749 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:28:08.379 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+12:28:26.616 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+12:28:31.108 [main] INFO  bmw_scripts.BMWTest - filling the form for null fields
+12:28:31.112 [main] INFO  bmw_scripts.BMWTest - clicking the joy rewards check box
+12:28:43.183 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:28:43.184 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:29:03.430 [main] INFO  bmw_scripts.BMWTest - care care products test case started
+12:29:16.392 [main] INFO  bmw_scripts.BMWTest - true
+12:29:19.023 [main] INFO  bmw_scripts.BMWTest - navigating to car care products
+12:29:34.316 [main] INFO  bmw_scripts.BMWTest - Assert passed for the glass cleaning
+12:29:34.691 [main] INFO  bmw_scripts.BMWTest - Glass Cleaning
+Bringing clarity where it’s needed. The diverse products for excellent care of all glass and mirrored surfaces of your BMW provide you with the right solution to solve any problem: from quick cleaning to high-quality polishing. Glass cleaning.
+• Glass cleaner
+• Glass polish
+• Silicon remover concentrate
+• Windscreen washer without antifreeze
+Find out more
+12:29:37.415 [main] INFO  bmw_scripts.BMWTest - Assert passed for the paint and wheel
+12:29:40.136 [main] INFO  bmw_scripts.BMWTest - Paint and Wheel Rim Care
+BMW Premium Car Care products provide perfect results: a dazzling shine to the rims of your BMW and long-lasting protection to the painted surfaces.
+• Car shampoo
+• Wash & wax
+• Car polish
+• Hard wax with nanotechnology
+• Wheel rim cleaner
+Find out more
+12:29:43.508 [main] INFO  bmw_scripts.BMWTest - Assert passed for the interior care
+12:29:46.285 [main] INFO  bmw_scripts.BMWTest - Interior Care
+Care for inner beauty. These products are a spa treatment for the plastic, cloth, wood and leather in the interior.
+• Leather care set with UV protection
+• Leather cleaning foam
+• Alcantara and upholstery cleaner
+• Interior cleaner
+• Plastic care emulsion
+• Cockpit spray
+• Impregnating agent for upholstery and carpets
+Find out more
+12:29:49.214 [main] INFO  bmw_scripts.BMWTest - Assert passed for the special products
+12:29:52.025 [main] INFO  bmw_scripts.BMWTest - Special Products
+Special products for diverse purposes. These helpers ensure resin on the paint finish or insects on the windscreen are no longer a problem.
+• Tyre shine
+• Rubber care
+Find out more
+12:30:00.042 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:30:00.043 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:30:21.882 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:30:28.110 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package status
+12:30:34.359 [main] INFO  bmw_scripts.BMWTest - Please enter a valid VIN.
+12:30:35.936 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:30:35.937 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:30:56.416 [main] INFO  bmw_scripts.BMWTest - BRI package services
+12:30:57.000 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:31:06.100 [main] INFO  bmw_scripts.BMWTest - clicking services
+12:31:16.657 [main] INFO  bmw_scripts.BMWTest - Assert passed for the error page not found
+12:31:17.245 [main] ERROR bmw_scripts.BMWTest - Wheel set page not found
+12:31:17.331 [main] ERROR bmw_scripts.BMWTest - The page you have requested cannot be found, it might have been removed, had its name changed, or is temporarily unavailable.
+Should you wish to contact BMW India for general information on products and services,
+please use one of the following communication channels.
+12:31:24.177 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:31:24.178 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:31:45.814 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+12:31:46.487 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:31:49.258 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+12:31:56.464 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+12:32:15.329 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+12:32:15.396 [main] INFO  bmw_scripts.BMWTest - back to previous window
+12:32:21.193 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:32:21.194 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:32:41.450 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+12:32:42.102 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:32:46.609 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+12:33:12.651 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+12:33:12.707 [main] INFO  bmw_scripts.BMWTest - filling the form for null fields
+12:33:18.328 [main] INFO  bmw_scripts.BMWTest - *Please enter valid details
+12:33:20.822 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+12:33:20.965 [main] INFO  bmw_scripts.BMWTest - back to previous window
+12:33:25.094 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:33:25.095 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:33:46.248 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:34:00.795 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package status
+12:34:07.164 [main] INFO  bmw_scripts.BMWTest - Please enter a valid VIN.
+12:34:08.960 [main] INFO  bmw_scripts.BMWTest - driver closed
+12:34:08.961 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+12:34:28.581 [main] INFO  bmw_scripts.BMWTest - checking the joy rewards registrer now page
+12:34:29.176 [main] INFO  bmw_scripts.BMWTest - clicking on services tab
+12:34:33.707 [main] INFO  bmw_scripts.BMWTest - cliked on joy rewards link
+12:35:10.659 [main] INFO  bmw_scripts.BMWTest - switching to new tab
+12:35:10.682 [main] INFO  bmw_scripts.BMWTest - filling the form for mandatory fields
+12:35:41.672 [main] INFO  bmw_scripts.BMWTest - form filled
+12:35:49.066 [main] INFO  bmw_scripts.BMWTest - Dear Dexter gupta,
+Your request has been submitted successfully and our representative will contact you shortly.
+12:35:49.522 [main] INFO  bmw_scripts.BMWTest - closing the new tab
+12:35:49.579 [main] INFO  bmw_scripts.BMWTest - back to previous window
+12:35:52.986 [main] INFO  bmw_scripts.BMWTest - driver closed

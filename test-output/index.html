@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Services">
+              <span class="suite-name border-failed">Services</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Services">
+                    <span>F:\Training project\final_projectBMW\BMW\BMW\module5.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Services">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Services">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Services">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Services">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Services">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Services">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">11 methods, 2 failed,   9 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Services" class="hide-methods failed suite-Services"> (hide)</a> <!-- hide-methods failed suite-Services -->
+                      <a href="#" panel-name="suite-Services" class="show-methods failed suite-Services"> (show)</a> <!-- show-methods failed suite-Services -->
+                    </span>
+                    <div class="method-list-content failed suite-Services">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestBRIServices" hash-for-method="testBRIServices">testBRIServices</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestCheckBoxValidation" hash-for-method="testCheckBoxValidation">testCheckBoxValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Services -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Services" class="hide-methods passed suite-Services"> (hide)</a> <!-- hide-methods passed suite-Services -->
+                      <a href="#" panel-name="suite-Services" class="show-methods passed suite-Services"> (show)</a> <!-- show-methods passed suite-Services -->
+                    </span>
+                    <div class="method-list-content passed suite-Services">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestBRiInvalidValue" hash-for-method="testBRIPackageInvalidValue">testBRIPackageInvalidValue</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestBRINullValue" hash-for-method="testBRIPackageNullValue">testBRIPackageNullValue</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestCarCareProducts" hash-for-method="testCarCareProducts">testCarCareProducts</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestJoyRewardsLink" hash-for-method="testJoyRewardsLink">testJoyRewardsLink</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestLifeStyleAndGadgets" hash-for-method="testLifestyleAndGadgets">testLifestyleAndGadgets</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestMandatoryFieldValidation" hash-for-method="testMandatoryFieldValidation">testMandatoryFieldValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestNullValueValidation" hash-for-method="testNullValueValidation">testNullValueValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestRewardsRegistrationPage" hash-for-method="testRewardsRegistrationPages">testRewardsRegistrationPages</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Services" title="bmw_scripts.BMWModule5TestAllLinks" hash-for-method="testServicesTabs">testServicesTabs</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Services -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Services" class="panel Services">
+          <div class="suite-Services-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestCheckBoxValidation</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testCheckBoxValidation">
+                  </a> <!-- testCheckBoxValidation -->
+                  <span class="method-name">testCheckBoxValidation</span>
+                  <div class="stack-trace">java.lang.AssertionError: Assert failed for the joy rewards check box expected [true] but found [false]
+	at bmw_methodlib.MethodLibrary.getAssert(MethodLibrary.java:2902)
+	at bmw_methodlib.MethodLibrary.getcheckBoxValidation(MethodLibrary.java:2025)
+	at bmw_scripts.BMWModule5TestCheckBoxValidation.testCheckBoxValidation(BMWModule5TestCheckBoxValidation.java:35)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-failed -->
+          <div class="suite-Services-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestBRIServices</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testBRIServices">
+                  </a> <!-- testBRIServices -->
+                  <span class="method-name">testBRIServices</span>
+                  <div class="stack-trace">java.lang.AssertionError: Wheel set page not found
+	at bmw_methodlib.MethodLibrary.testBRIPackageServices(MethodLibrary.java:2272)
+	at bmw_scripts.BMWModule5TestBRIServices.testBRIServices(BMWModule5TestBRIServices.java:35)
+... Removed 26 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-failed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestRewardsRegistrationPage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testRewardsRegistrationPages">
+                  </a> <!-- testRewardsRegistrationPages -->
+                  <span class="method-name">testRewardsRegistrationPages</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestBRINullValue</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testBRIPackageNullValue">
+                  </a> <!-- testBRIPackageNullValue -->
+                  <span class="method-name">testBRIPackageNullValue</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestLifeStyleAndGadgets</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testLifestyleAndGadgets">
+                  </a> <!-- testLifestyleAndGadgets -->
+                  <span class="method-name">testLifestyleAndGadgets</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestNullValueValidation</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testNullValueValidation">
+                  </a> <!-- testNullValueValidation -->
+                  <span class="method-name">testNullValueValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestAllLinks</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testServicesTabs">
+                  </a> <!-- testServicesTabs -->
+                  <span class="method-name">testServicesTabs</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestJoyRewardsLink</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testJoyRewardsLink">
+                  </a> <!-- testJoyRewardsLink -->
+                  <span class="method-name">testJoyRewardsLink</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestBRiInvalidValue</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testBRIPackageInvalidValue">
+                  </a> <!-- testBRIPackageInvalidValue -->
+                  <span class="method-name">testBRIPackageInvalidValue</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestCarCareProducts</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testCarCareProducts">
+                  </a> <!-- testCarCareProducts -->
+                  <span class="method-name">testCarCareProducts</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+          <div class="suite-Services-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bmw_scripts.BMWModule5TestMandatoryFieldValidation</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testMandatoryFieldValidation">
+                  </a> <!-- testMandatoryFieldValidation -->
+                  <span class="method-name">testMandatoryFieldValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Services-class-passed -->
+        </div> <!-- panel Services -->
+        <div panel-name="test-xml-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">F:\Training project\final_projectBMW\BMW\BMW\module5.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Services&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;ServicesTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestAllLinks&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestLifeStyleAndGadgets&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestJoyRewardsLink&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestCheckBoxValidation&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestCarCareProducts&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestBRiInvalidValue&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestBRIServices&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestRewardsRegistrationPage&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestNullValueValidation&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestBRINullValue&quot;/&gt;
+      &lt;class name=&quot;bmw_scripts.BMWModule5TestMandatoryFieldValidation&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ServicesTest --&gt;
+&lt;/suite&gt; &lt;!-- Services --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Services</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">ServicesTest (11 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Services</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Services</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Services');
+function tableData_Services() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(11);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'testServicesTabs')
+data.setCell(0, 2, 'bmw_scripts.BMWModule5TestAllLinks')
+data.setCell(0, 3, 178296);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'testMandatoryFieldValidation')
+data.setCell(1, 2, 'bmw_scripts.BMWModule5TestMandatoryFieldValidation')
+data.setCell(1, 3, 81003);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'testCarCareProducts')
+data.setCell(2, 2, 'bmw_scripts.BMWModule5TestCarCareProducts')
+data.setCell(2, 3, 53604);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'testNullValueValidation')
+data.setCell(3, 2, 'bmw_scripts.BMWModule5TestNullValueValidation')
+data.setCell(3, 3, 39521);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'testLifestyleAndGadgets')
+data.setCell(4, 2, 'bmw_scripts.BMWModule5TestLifeStyleAndGadgets')
+data.setCell(4, 3, 32003);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'testCheckBoxValidation')
+data.setCell(5, 2, 'bmw_scripts.BMWModule5TestCheckBoxValidation')
+data.setCell(5, 3, 30111);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'testRewardsRegistrationPages')
+data.setCell(6, 2, 'bmw_scripts.BMWModule5TestRewardsRegistrationPage')
+data.setCell(6, 3, 29587);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'testBRIServices')
+data.setCell(7, 2, 'bmw_scripts.BMWModule5TestBRIServices')
+data.setCell(7, 3, 22922);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'testBRIPackageNullValue')
+data.setCell(8, 2, 'bmw_scripts.BMWModule5TestBRINullValue')
+data.setCell(8, 3, 21850);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'testBRIPackageInvalidValue')
+data.setCell(9, 2, 'bmw_scripts.BMWModule5TestBRiInvalidValue')
+data.setCell(9, 3, 13312);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'testJoyRewardsLink')
+data.setCell(10, 2, 'bmw_scripts.BMWModule5TestJoyRewardsLink')
+data.setCell(10, 3, 8785);
+window.suiteTableData['Services']= { tableData: data, tableDiv: 'times-div-Services'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 8 minutes</span>
+              <div id="times-div-Services">
+              </div> <!-- times-div-Services -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Services</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Services" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestAllLinks</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testServicesTabs</span>
+                <span class="method-start">23567 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">201868 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestLifeStyleAndGadgets</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">212386 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testLifestyleAndGadgets</span>
+                <span class="method-start">235737 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">267742 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestJoyRewardsLink</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">272155 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testJoyRewardsLink</span>
+                <span class="method-start">293110 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">301900 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestCheckBoxValidation</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">306685 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">testCheckBoxValidation</span>
+                <span class="method-start">327071 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">357188 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestCarCareProducts</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">367191 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testCarCareProducts</span>
+                <span class="method-start">387431 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">441043 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestBRiInvalidValue</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">444049 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testBRIPackageInvalidValue</span>
+                <span class="method-start">465054 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">478367 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestBRIServices</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">479943 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">testBRIServices</span>
+                <span class="method-start">500416 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">523341 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestRewardsRegistrationPage</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">528185 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testRewardsRegistrationPages</span>
+                <span class="method-start">549816 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">579405 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestNullValueValidation</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">585200 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testNullValueValidation</span>
+                <span class="method-start">605451 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">644975 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestBRINullValue</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">649101 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testBRIPackageNullValue</span>
+                <span class="method-start">669322 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">691173 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">bmw_scripts.BMWModule5TestMandatoryFieldValidation</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeClass</span>
+                <span class="method-start">692967 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">testMandatoryFieldValidation</span>
+                <span class="method-start">712584 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">afterClass</span>
+                <span class="method-start">793588 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

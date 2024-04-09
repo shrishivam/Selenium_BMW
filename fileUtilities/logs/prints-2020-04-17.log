@@ -1,0 +1,29 @@
+11:51:00.928 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:01:20.298 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:02:04.896 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:02:12.735 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:17:55.821 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:18:31.417 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:18:37.327 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:20:26.747 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:20:51.796 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:20:59.569 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:22:11.458 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:22:35.333 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:22:43.274 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:23:22.127 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:23:43.533 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:23:51.402 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:25:59.872 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:26:22.307 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:26:33.504 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:28:10.488 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:28:31.602 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:28:47.753 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:30:21.937 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:34:48.401 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:35:09.954 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:35:25.357 [main] INFO  bmw_scripts.BMWTest - driver closed
+17:45:26.032 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+17:45:46.918 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+17:46:02.951 [main] INFO  bmw_scripts.BMWTest - driver closed

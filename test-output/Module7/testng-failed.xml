@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Module7]">
+  <test thread-count="5" name="Module7Test(failed)">
+    <classes>
+      <class name="bmw_scripts.BMWModule7MilestoneTC_59">
+        <methods>
+          <include name="testMilestonesValues"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule7MilestoneTC_59 -->
+      <class name="bmw_scripts.BMWModule7ConsumptionTC_57">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testConsumtionAndEmmision"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule7ConsumptionTC_57 -->
+      <class name="bmw_scripts.BMWModule7SwitchWLTPTC_58">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testSwitchWLTP"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule7SwitchWLTPTC_58 -->
+      <class name="bmw_scripts.BMWModule7TechnologyTC_56">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Click_BMW_World_Tech_Innovation"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule7TechnologyTC_56 -->
+    </classes>
+  </test> <!-- Module7Test(failed) -->
+</suite> <!-- Failed suite [Module7] -->

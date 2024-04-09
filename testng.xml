@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!-- parallel="tests" thread-count="10" -->
+	<listeners>
+		<listener class-name="bmw_utilities.Listeners" />
+		<listener class-name="bmw_utilities.ExtentReporterNG" />
+
+	</listeners>
+
+	<test thread-count="5" name="Module1Test">
+		<classes>
+
+
+
+			<class name="bmw_scripts.BMWModule1InvokeBrowserTC_001" />
+			<class name="bmw_scripts.BMWModule1FourHeaderOptionTC_002" />
+			<class name="bmw_scripts.BMWModule1ImageSliderCheckTC_003" />
+			<class name="bmw_scripts.BMWModule1BMWLogoCheckTC_004" />
+			<class name="bmw_scripts.BMWModule1DealerLocatorCheckTC_005" />
+			<class name="bmw_scripts.BMWModule1TestDriveLogoCheckTC_006" />
+			<class name="bmw_scripts.BMWModule1SeriesCheckTC_007" />
+			<class name="bmw_scripts.BMWModule1BodyTypeTestTC_008" />
+			<class name="bmw_scripts.BMWModule1ImageCheckTC_009" />
+			<class name="bmw_scripts.BMWModule1OuterLinkCheckTC_010" />
+
+
+		</classes>
+	</test>
+
+	<test thread-count="5" name="Module2Test">
+		<classes>
+			<class name="bmw_scripts.BMWModule2DiscoverAllModels" />
+			<class name="bmw_scripts.BMWModule2NeedAnalyzer" />
+		</classes>
+	</test> <!-- Module2Test -->
+
+	<test thread-count="5" name="Module3Test">
+		<classes>
+
+			<class name="bmw_scripts.BMWModule3BuildYourBMW" />
+			<class name="bmw_scripts.BMWModule3MyConfigurations" />
+			<class name="bmw_scripts.BMWModule3Compare" />
+		</classes>
+	</test> <!-- Module3Test -->
+
+	<test thread-count="5" name="Module4Test">
+		<classes>
+			<class name="bmw_scripts.BMWModule4EnquireUsedCars" />
+			<class name="bmw_scripts.BMWModule4SellYourCarValidData" />
+			<class name="bmw_scripts.BMWModule4SellYourCarInvalidData" />
+			<class name="bmw_scripts.BMWModule4SellYourCarNULLValues" />
+			<class name="bmw_scripts.BMWModule4SellYourCarNameField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarMobileField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarEmailField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarCityField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarDealerField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarSubmitButton" />
+			<class name="bmw_scripts.BMWModule4NewCar" />
+
+
+
+
+
+
+		</classes>
+	</test> <!-- Module4Test -->
+
+	<test thread-count="5" name="ServicesTest">
+		<classes>
+			<class name="bmw_scripts.BMWModule5TestAllLinks" />
+			<class name="bmw_scripts.BMWModule5TestJoyRewardsLink" />
+			<class name="bmw_scripts.BMWModule5TestRewardsRegistrationPage" />
+			<class
+				name="bmw_scripts.BMWModule5TestMandatoryFieldValidation" />
+			<class name="bmw_scripts.BMWModule5TestNullValueValidation" />
+			<class name="bmw_scripts.BMWModule5TestCheckBoxValidation" />
+			<class name="bmw_scripts.BMWModule5TestCarCareProducts" />
+			<class name="bmw_scripts.BMWModule5TestLifeStyleAndGadgets" />
+			<class name="bmw_scripts.BMWModule5TestBRiInvalidValue" />
+			<class name="bmw_scripts.BMWModule5TestBRINullValue" />
+			<class name="bmw_scripts.BMWModule5TestBRIServices" />
+
+		</classes>
+	</test>
+
+	<test thread-count="5" name="Module6Test">
+		<classes>
+
+			<class name="bmw_scripts.BMWModule6ClickOnFinance" />
+			<class name="bmw_scripts.BMWModule6TestAllLinks" />
+			<class name="bmw_scripts.BMWModule6EMICalculator" />
+			<class name="bmw_scripts.BMWModule6TestLeasing" />
+			<class name="bmw_scripts.BMWModule6TestLoan" />
+
+		</classes>
+	</test> <!-- Module6Test -->
+
+	<test thread-count="5" name="Module7Test">
+		<classes>
+
+
+
+			<class name="bmw_scripts.BMWModule7TestLinksTC_43" />
+			<class name="bmw_scripts.BMWModule7JoyFestTC_44" />
+			<class name="bmw_scripts.BMWModule7ReqForInfoTC_45_TC_55" />
+			<class name="bmw_scripts.BMWModule7TechnologyTC_56" />
+			<class name="bmw_scripts.BMWModule7ConsumptionTC_57" />
+			<class name="bmw_scripts.BMWModule7SwitchWLTPTC_58" />
+			<class name="bmw_scripts.BMWModule7MilestoneTC_59" />
+
+		</classes>
+	</test>
+
+
+
+
+
+	<!-- <suite-files> <suite-file path="module1.xml" /> <suite-file path="module5.xml" 
+		/> <suite-file path="module7.xml" /> </suite-files> -->
+
+	<!-- ServicesTest -->
+</suite> <!-- Suite -->

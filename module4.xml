@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Module4Suite">
+	<test thread-count="5" name="Module4Test">
+		<classes>
+			<class name="bmw_scripts.BMWModule4SellYourCarValidData" />
+			<class name="bmw_scripts.BMWModule4SellYourCarMobileField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarDealerField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarNameField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarInvalidData" />
+
+			<class name="bmw_scripts.BMWModule4SellYourCarEmailField" />
+			<class name="bmw_scripts.BMWModule4SellYourCarSubmitButton" />
+			<class name="bmw_scripts.BMWModule4SellYourCarNULLValues" />
+			<class name="bmw_scripts.BMWModule4NewCar" />
+			<class name="bmw_scripts.BMWModule4SellYourCarCityField" />
+			<class name="bmw_scripts.BMWModule4EnquireUsedCars" />
+		</classes>
+	</test> <!-- Module4Test -->
+</suite> <!-- Module4Suite -->

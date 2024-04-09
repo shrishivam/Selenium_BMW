@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Module1Suite]">
+  <test thread-count="5" name="Module1Test(failed)">
+    <classes>
+      <class name="bmw_scripts.BMWModule1OuterLinkCheckTC_010">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Outer_Link_Verification"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- bmw_scripts.BMWModule1OuterLinkCheckTC_010 -->
+    </classes>
+  </test> <!-- Module1Test(failed) -->
+</suite> <!-- Failed suite [Module1Suite] -->

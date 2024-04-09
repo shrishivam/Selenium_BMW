@@ -1,0 +1,20 @@
+23:53:20.060 [main] INFO  bmw_scripts.BMWTest - bmwdtm_hq_pcg :index%7Cindex%7Cindex%7Cindex%7Cindex
+23:53:20.070 [main] INFO  bmw_scripts.BMWTest - AMCVS_B52D1CFE5330949C0A490D45%40AdobeOrg :1
+23:53:20.071 [main] INFO  bmw_scripts.BMWTest - s_cc :true
+23:53:20.071 [main] INFO  bmw_scripts.BMWTest - bmwdtm_hq_sid :k3jidXQCmEzX
+23:53:20.071 [main] INFO  bmw_scripts.BMWTest - bmwdtm_hq_userdata :lo:not logged in
+23:53:29.551 [main] INFO  bmw_scripts.BMWTest - driver closed
+23:55:01.337 [main] INFO  bmw_scripts.BMWTest - driver is initialised
+23:55:36.762 [main] INFO  bmw_scripts.BMWTest - s_lv_s :First%20Visit
+23:55:36.762 [main] INFO  bmw_scripts.BMWTest - cc_ConsentCookie :false
+23:55:36.762 [main] INFO  bmw_scripts.BMWTest - s_lv :1587320715949
+23:55:36.765 [main] INFO  bmw_scripts.BMWTest - cc_digital_userCookie :%7B%22visitorID%22%3A%22388073971654%22%2C%22returningStatus%22%3A%22false%22%2C%22sessionID%22%3A%22388073971654%22%2C%22sessionIDx%22%3A%221%22%7D
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - JSESSIONID :node0dui7g09lbxgt2ic5xdk9i2ii5288452.node0
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - s_ppv :index%2C19%2C19%2C613%2C1366%2C613%2C1366%2C768%2C1%2CP
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - s_ppvl :index%2C14%2C14%2C613%2C1366%2C613%2C1366%2C768%2C1%2CP
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - cc_digital_sessionCookie :388073971654
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - AMCV_B52D1CFE5330949C0A490D45%40AdobeOrg :1585540135%7CMCMID%7C17346889709668970423945576440286881829%7CMCAAMLH-1587925516%7C12%7CMCAAMB-1587925516%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1587327916s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0
+23:55:36.766 [main] INFO  bmw_scripts.BMWTest - bmwdtm_hq_pcg :index%7Cindex%7Cindex%7Cindex%7Cindex
+23:55:36.767 [main] INFO  bmw_scripts.BMWTest - AMCVS_B52D1CFE5330949C0A490D45%40AdobeOrg :1
+23:55:36.767 [main] INFO  bmw_scripts.BMWTest - s_cc :true
+23:55:36.767 [main] INFO  bmw_scripts.BMWTest - bmwdtm_hq_sid :k3jiOS30m3r7

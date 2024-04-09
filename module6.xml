@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Module6Suite">
+  <test thread-count="5" name="Module6Test">
+    <classes>
+      <class name="bmw_scripts.BMWModule6TestLoan"/>
+      <class name="bmw_scripts.BMWModule6ClickOnFinance"/>
+      <class name="bmw_scripts.BMWModule6TestLeasing"/>
+      <class name="bmw_scripts.BMWModule6EMICalculator"/>
+      <class name="bmw_scripts.BMWModule6TestAllLinks"/>
+    </classes>
+  </test> <!-- Module6Test -->
+</suite> <!-- Module6Suite -->

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="11" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Services" duration-ms="797028" started-at="2020-04-25T06:52:35Z" finished-at="2020-04-25T07:05:52Z">
+    <groups>
+    </groups>
+    <test name="ServicesTest" duration-ms="797028" started-at="2020-04-25T06:52:35Z" finished-at="2020-04-25T07:05:52Z">
+      <class name="bmw_scripts.BMWModule5TestBRINullValue">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRINullValue@5b239d7d]" name="beforeClass" is-config="true" duration-ms="20221" started-at="2020-04-25T07:03:25Z" finished-at="2020-04-25T07:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testBRIPackageNullValue()[pri:0, instance:bmw_scripts.BMWModule5TestBRINullValue@5b239d7d]" name="testBRIPackageNullValue" duration-ms="21850" started-at="2020-04-25T07:03:45Z" finished-at="2020-04-25T07:04:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBRIPackageNullValue -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRINullValue@5b239d7d]" name="afterClass" is-config="true" duration-ms="1794" started-at="2020-04-25T07:04:07Z" finished-at="2020-04-25T07:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestBRINullValue -->
+      <class name="bmw_scripts.BMWModule5TestCarCareProducts">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestCarCareProducts@12468a38]" name="beforeClass" is-config="true" duration-ms="20239" started-at="2020-04-25T06:58:43Z" finished-at="2020-04-25T06:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCarCareProducts()[pri:0, instance:bmw_scripts.BMWModule5TestCarCareProducts@12468a38]" name="testCarCareProducts" duration-ms="53604" started-at="2020-04-25T06:59:03Z" finished-at="2020-04-25T06:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarCareProducts -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestCarCareProducts@12468a38]" name="afterClass" is-config="true" duration-ms="3006" started-at="2020-04-25T06:59:57Z" finished-at="2020-04-25T07:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestCarCareProducts -->
+      <class name="bmw_scripts.BMWModule5TestCheckBoxValidation">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestCheckBoxValidation@9f116cc]" name="beforeClass" is-config="true" duration-ms="20386" started-at="2020-04-25T06:57:42Z" finished-at="2020-04-25T06:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="FAIL" signature="testCheckBoxValidation()[pri:0, instance:bmw_scripts.BMWModule5TestCheckBoxValidation@9f116cc]" name="testCheckBoxValidation" duration-ms="30111" started-at="2020-04-25T06:58:03Z" finished-at="2020-04-25T06:58:33Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Assert failed for the joy rewards check box expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Assert failed for the joy rewards check box expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at bmw_methodlib.MethodLibrary.getAssert(MethodLibrary.java:2902)
+at bmw_methodlib.MethodLibrary.getcheckBoxValidation(MethodLibrary.java:2025)
+at bmw_scripts.BMWModule5TestCheckBoxValidation.testCheckBoxValidation(BMWModule5TestCheckBoxValidation.java:35)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckBoxValidation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestCheckBoxValidation@9f116cc]" name="afterClass" is-config="true" duration-ms="10002" started-at="2020-04-25T06:58:33Z" finished-at="2020-04-25T06:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestCheckBoxValidation -->
+      <class name="bmw_scripts.BMWModule5TestMandatoryFieldValidation">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestMandatoryFieldValidation@6572421]" name="beforeClass" is-config="true" duration-ms="19616" started-at="2020-04-25T07:04:08Z" finished-at="2020-04-25T07:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMandatoryFieldValidation()[pri:0, instance:bmw_scripts.BMWModule5TestMandatoryFieldValidation@6572421]" name="testMandatoryFieldValidation" duration-ms="81003" started-at="2020-04-25T07:04:28Z" finished-at="2020-04-25T07:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMandatoryFieldValidation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestMandatoryFieldValidation@6572421]" name="afterClass" is-config="true" duration-ms="3405" started-at="2020-04-25T07:05:49Z" finished-at="2020-04-25T07:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestMandatoryFieldValidation -->
+      <class name="bmw_scripts.BMWModule5TestAllLinks">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestAllLinks@6379eb]" name="beforeClass" is-config="true" duration-ms="23547" started-at="2020-04-25T06:52:35Z" finished-at="2020-04-25T06:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testServicesTabs()[pri:0, instance:bmw_scripts.BMWModule5TestAllLinks@6379eb]" name="testServicesTabs" duration-ms="178296" started-at="2020-04-25T06:52:59Z" finished-at="2020-04-25T06:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testServicesTabs -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestAllLinks@6379eb]" name="afterClass" is-config="true" duration-ms="10516" started-at="2020-04-25T06:55:57Z" finished-at="2020-04-25T06:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestAllLinks -->
+      <class name="bmw_scripts.BMWModule5TestBRIServices">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRIServices@59309333]" name="beforeClass" is-config="true" duration-ms="20473" started-at="2020-04-25T07:00:35Z" finished-at="2020-04-25T07:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="FAIL" signature="testBRIServices()[pri:0, instance:bmw_scripts.BMWModule5TestBRIServices@59309333]" name="testBRIServices" duration-ms="22922" started-at="2020-04-25T07:00:56Z" finished-at="2020-04-25T07:01:19Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Wheel set page not found]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Wheel set page not found
+at org.testng.Assert.fail(Assert.java:96)
+at bmw_methodlib.MethodLibrary.testBRIPackageServices(MethodLibrary.java:2272)
+at bmw_scripts.BMWModule5TestBRIServices.testBRIServices(BMWModule5TestBRIServices.java:35)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBRIServices -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRIServices@59309333]" name="afterClass" is-config="true" duration-ms="4843" started-at="2020-04-25T07:01:19Z" finished-at="2020-04-25T07:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestBRIServices -->
+      <class name="bmw_scripts.BMWModule5TestBRiInvalidValue">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRiInvalidValue@1aa7ecca]" name="beforeClass" is-config="true" duration-ms="21005" started-at="2020-04-25T07:00:00Z" finished-at="2020-04-25T07:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testBRIPackageInvalidValue()[pri:0, instance:bmw_scripts.BMWModule5TestBRiInvalidValue@1aa7ecca]" name="testBRIPackageInvalidValue" duration-ms="13312" started-at="2020-04-25T07:00:21Z" finished-at="2020-04-25T07:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBRIPackageInvalidValue -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestBRiInvalidValue@1aa7ecca]" name="afterClass" is-config="true" duration-ms="1576" started-at="2020-04-25T07:00:34Z" finished-at="2020-04-25T07:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestBRiInvalidValue -->
+      <class name="bmw_scripts.BMWModule5TestLifeStyleAndGadgets">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestLifeStyleAndGadgets@294425a7]" name="beforeClass" is-config="true" duration-ms="23350" started-at="2020-04-25T06:56:08Z" finished-at="2020-04-25T06:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testLifestyleAndGadgets()[pri:0, instance:bmw_scripts.BMWModule5TestLifeStyleAndGadgets@294425a7]" name="testLifestyleAndGadgets" duration-ms="32003" started-at="2020-04-25T06:56:31Z" finished-at="2020-04-25T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLifestyleAndGadgets -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestLifeStyleAndGadgets@294425a7]" name="afterClass" is-config="true" duration-ms="4413" started-at="2020-04-25T06:57:03Z" finished-at="2020-04-25T06:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestLifeStyleAndGadgets -->
+      <class name="bmw_scripts.BMWModule5TestRewardsRegistrationPage">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestRewardsRegistrationPage@5876a9af]" name="beforeClass" is-config="true" duration-ms="21631" started-at="2020-04-25T07:01:24Z" finished-at="2020-04-25T07:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testRewardsRegistrationPages()[pri:0, instance:bmw_scripts.BMWModule5TestRewardsRegistrationPage@5876a9af]" name="testRewardsRegistrationPages" duration-ms="29587" started-at="2020-04-25T07:01:45Z" finished-at="2020-04-25T07:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRewardsRegistrationPages -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestRewardsRegistrationPage@5876a9af]" name="afterClass" is-config="true" duration-ms="5795" started-at="2020-04-25T07:02:15Z" finished-at="2020-04-25T07:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestRewardsRegistrationPage -->
+      <class name="bmw_scripts.BMWModule5TestJoyRewardsLink">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestJoyRewardsLink@67d48005]" name="beforeClass" is-config="true" duration-ms="20955" started-at="2020-04-25T06:57:08Z" finished-at="2020-04-25T06:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testJoyRewardsLink()[pri:0, instance:bmw_scripts.BMWModule5TestJoyRewardsLink@67d48005]" name="testJoyRewardsLink" duration-ms="8785" started-at="2020-04-25T06:57:29Z" finished-at="2020-04-25T06:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJoyRewardsLink -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestJoyRewardsLink@67d48005]" name="afterClass" is-config="true" duration-ms="4785" started-at="2020-04-25T06:57:37Z" finished-at="2020-04-25T06:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestJoyRewardsLink -->
+      <class name="bmw_scripts.BMWModule5TestNullValueValidation">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bmw_scripts.BMWModule5TestNullValueValidation@7ec7ffd3]" name="beforeClass" is-config="true" duration-ms="20251" started-at="2020-04-25T07:02:21Z" finished-at="2020-04-25T07:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testNullValueValidation()[pri:0, instance:bmw_scripts.BMWModule5TestNullValueValidation@7ec7ffd3]" name="testNullValueValidation" duration-ms="39521" started-at="2020-04-25T07:02:41Z" finished-at="2020-04-25T07:03:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNullValueValidation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bmw_scripts.BMWModule5TestNullValueValidation@7ec7ffd3]" name="afterClass" is-config="true" duration-ms="4126" started-at="2020-04-25T07:03:20Z" finished-at="2020-04-25T07:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bmw_scripts.BMWModule5TestNullValueValidation -->
+    </test> <!-- ServicesTest -->
+  </suite> <!-- Services -->
+</testng-results>

@@ -1,0 +1,24 @@
+00:13:22.905 [main] INFO  bmw_scripts.BMWTest - clicking the services link 
+00:13:25.068 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Joy Rewards
+00:13:32.604 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:13:32.863 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Workshop offers
+00:13:39.019 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:13:39.350 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Service inclusive
+00:13:47.001 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:13:47.497 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Fast Lane Service
+00:13:56.745 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:13:57.302 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Accidemt management
+00:14:05.321 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:14:05.802 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Orginal parts
+00:14:12.870 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:14:13.221 [main] INFO  bmw_scripts.BMWTest - Assert passed for the Recall information
+00:14:22.740 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:14:23.915 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BRI package
+00:14:32.841 [main] INFO  bmw_scripts.BMWTest - going back to services tab
+00:14:37.409 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW Collection
+00:14:37.965 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW motor sport Collection
+00:14:38.072 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW i Collection
+00:14:38.229 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW m Collection
+00:14:38.335 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW kids Collection
+00:14:38.441 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW sports Collection
+00:14:38.558 [main] INFO  bmw_scripts.BMWTest - Assert passed for the BMW miniatures
